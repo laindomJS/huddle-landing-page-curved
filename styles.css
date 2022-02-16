@@ -214,6 +214,8 @@ main {
 .gt {
     display: flex;
     background-color: var(--very-pale-blue);
+    width: 100%;
+    padding: 3rem;
 }
 
 .text__right {
@@ -281,6 +283,8 @@ main {
 .yu {
     display: flex;
     background-color: var(--very-pale-blue);
+    width: 100%;
+    padding: 3rem;
 }
 
 .text__right--yu {
@@ -300,7 +304,7 @@ main {
 
 .yu--illustration {
     width: 620px;
-    margin-left: 4.4rem;
+    margin-left: 5.4rem;
 }
 /* YOUR USER SECTION STYLES */
 
