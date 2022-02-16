@@ -213,7 +213,6 @@ main {
 
 .gt {
     display: flex;
-    padding: 3rem;
     background-color: var(--very-pale-blue);
 }
 
@@ -244,7 +243,6 @@ main {
 /* FLOWING CONVERSATIONS SECTION STYLES */
 .fc {
     display: flex;
-    padding: 3rem;
     margin-bottom: 3rem;
 }
 
@@ -282,7 +280,6 @@ main {
 
 .yu {
     display: flex;
-    padding: 3rem;
     background-color: var(--very-pale-blue);
 }
 
