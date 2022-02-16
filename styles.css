@@ -390,6 +390,21 @@ footer {
 .email--icon {
     margin-right: .4rem;
 }
+
+.social__icons {
+    display: flex;
+}
+
+.icon {
+    width: 26px;
+    height: 30px;
+    margin-top: 3rem;
+    margin-right: 1.2rem;
+}
+
+.icon:hover {
+    cursor: pointer;
+}
 /* FOOTER LEFT PART END */
 
 
